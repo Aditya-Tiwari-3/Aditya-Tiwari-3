@@ -3,7 +3,7 @@
 
 <p align="center">
 I am currently learning Data Structures & Algorithms and Full Stack Web Development.  
-My goal is to become a strong problem solver and backend developer.
+My goal is to become a strong problem solver and fullstack developer.
 </p>
 
 ---
