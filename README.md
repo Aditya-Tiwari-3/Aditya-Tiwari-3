@@ -2,6 +2,10 @@
 <h3 align="center">First Year B.Tech CSE Student | Future Software Developer</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditya-Tiwari-3&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
 I am currently learning Data Structures & Algorithms and Full Stack Web Development.  
 My goal is to become a strong problem solver and fullstack developer.
 </p>
